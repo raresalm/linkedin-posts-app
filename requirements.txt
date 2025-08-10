@@ -1,3 +1,4 @@
+schedule
 streamlit
 openai
 python-dotenv
